@@ -25,7 +25,7 @@ SECRET_KEY = 'coip0+swsrz*$l3l2h^67%fb6^y+ij09d5obvglm5qv)$q_gn0'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['gsstodos.herokuapp.com']
 
 
 # Application definition
