@@ -2,47 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ecb570f-de7a-4ea6-af9c-9b807ee28829" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/todos.iml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/db.sqlite3" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/manage.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/bootstrap/css/bootstrap.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/bootstrap/css/bootstrap.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/bootstrap/css/bootstrap.min.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/bootstrap/css/bootstrap.min.css.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/bootstrap/js/bootstrap.bundle.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/bootstrap/js/bootstrap.bundle.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/bootstrap/js/bootstrap.bundle.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/bootstrap/js/bootstrap.bundle.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/bootstrap/js/bootstrap.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/bootstrap/js/bootstrap.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/bootstrap/js/bootstrap.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/bootstrap/js/bootstrap.min.js.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/fonts/all.css" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/jquery/jquery.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/jquery/jquery.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/jquery/jquery.min.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/jquery/jquery.slim.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/jquery/jquery.slim.min.js" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/static/todos/vendor/jquery/jquery.slim.min.map" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todoapp/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todoapp/settings.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todoapp/urls.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todoapp/wsgi.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todos/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todos/admin.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todos/apps.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todos/forms.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todos/migrations/0001_initial.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todos/migrations/__init__.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todos/models.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todos/templates/todos/index.html" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todos/tests.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todos/urls.py" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/todos/views.py" />
+      <change beforePath="$PROJECT_DIR$/todos/templates/todos/index.html" afterPath="$PROJECT_DIR$/todos/templates/todos/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -65,21 +25,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/todos/templates/todos/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="194">
-              <caret line="77" column="154" lean-forward="false" selection-start-line="77" selection-start-column="154" selection-end-line="77" selection-end-column="154" />
+            <state relative-caret-position="252">
+              <caret line="14" column="85" lean-forward="false" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
               <folding>
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#3009#3015#0" expanded="true" />
+                <element signature="e#3018#3024#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Procfile" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Procfile" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Procfile">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
@@ -158,9 +118,9 @@
         <option value="$PROJECT_DIR$/todos/forms.py" />
         <option value="$PROJECT_DIR$/todos/views.py" />
         <option value="$PROJECT_DIR$/todos/urls.py" />
-        <option value="$PROJECT_DIR$/todos/templates/todos/index.html" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/Procfile" />
+        <option value="$PROJECT_DIR$/todos/templates/todos/index.html" />
       </list>
     </option>
   </component>
@@ -333,7 +293,6 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="41" y="-4" width="1325" height="772" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21121351" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32868218" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
@@ -342,7 +301,7 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24961598" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32970452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
@@ -399,7 +358,7 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3009#3015#0" expanded="true" />
+            <element signature="e#3018#3024#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -421,7 +380,7 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3009#3015#0" expanded="true" />
+            <element signature="e#3018#3024#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -528,7 +487,7 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3009#3015#0" expanded="true" />
+            <element signature="e#3018#3024#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -558,7 +517,7 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3009#3015#0" expanded="true" />
+            <element signature="e#3018#3024#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -653,7 +612,7 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3009#3015#0" expanded="true" />
+            <element signature="e#3018#3024#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -695,7 +654,7 @@
           <folding>
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3009#3015#0" expanded="true" />
+            <element signature="e#3018#3024#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -811,18 +770,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/todos/templates/todos/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="77" column="154" lean-forward="false" selection-start-line="77" selection-start-column="154" selection-end-line="77" selection-end-column="154" />
-          <folding>
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#3009#3015#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/requirements.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -836,6 +783,18 @@
         <state relative-caret-position="0">
           <caret line="0" column="28" lean-forward="false" selection-start-line="0" selection-start-column="28" selection-end-line="0" selection-end-column="28" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/todos/templates/todos/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="85" lean-forward="false" selection-start-line="14" selection-start-column="85" selection-end-line="14" selection-end-column="85" />
+          <folding>
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#3018#3024#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
